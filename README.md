@@ -12,4 +12,4 @@ IntelliJ
 <br>
 <br>
 <br>
-keywords: Selenium Webdriver, java SDE, IntelliJ IDEA, jUnit
+keywords: Selenium Webdriver, java JDK, IntelliJ IDEA, jUnit
