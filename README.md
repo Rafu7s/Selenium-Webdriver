@@ -7,7 +7,7 @@ IntelliJ
 <br>
 <br>
 <br>
-<br>
+Big thanks to testuj.pl and Łukasz for instruction video.
 <br>
 <br>
 <br>
