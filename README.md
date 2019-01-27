@@ -2,7 +2,7 @@
 IntelliJ 
 
 
-01/09/2018 Early stage of project - Requirement Analysis
+Early stage of project - Requirement Analysis
 <br>
 <br>
 <br>
