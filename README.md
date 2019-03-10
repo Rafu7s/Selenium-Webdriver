@@ -2,7 +2,7 @@
 IntelliJ 
 
 
-progress: Requirement Analysis
+Status: Requirement Analysis
 <br>
 <br>
 <br>
