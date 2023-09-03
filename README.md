@@ -3,6 +3,7 @@ IntelliJ
 <br><br><br>
 Status: Requirement Analysis
 <br>
+UPDATE: partialy done here https://github.com/Rafu7s/SELENIUM-BDD-BEHAVE-GHERKIN-ALLURE-UNITTEST-PYTHON-FLASK-GIT 
 <br>
 <br>
 ![Example meta5](./img/1.jpg)
