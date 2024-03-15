@@ -1,5 +1,5 @@
 # Selenium-Webdriver
-IntelliJ 
+Tool used: IntelliJ IDEA (Community Edition)
 <br><br>
 ℹ️ Status: Sample register&login test on src/test/java 'ttest3.java'
 <br><br>
